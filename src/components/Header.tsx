@@ -5,7 +5,7 @@ function Header() {
     return (
         <>
             <header>
-                <img className="image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM61xZUa-OTCFT_bkp5dKZ-lG-M6gFbxlP4g&s" />
+                <img className="image" src="https://images.tcdn.com.br/img/img_prod/311840/camiseta_mitchell_e_ness_nba_boston_celtics_preto_56199_4_20210806223429.jpg" />
                 <p className="text">Boston Celtics</p>
             </header>
         </>
