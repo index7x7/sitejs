@@ -6,10 +6,18 @@
   }
   
   .background img {
-    width: 1400px;
     height: auto;
     background-size: contain;
     background-repeat: no-repeat;
     object-fit: cover;
   }
   
+  @media screen and (min-width: 800px){
+    .background img {
+      width: 80%;
+      height: 500px;
+      background-size: contain;
+      background-repeat: no-repeat;
+
+  }
+  }

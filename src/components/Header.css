@@ -8,7 +8,15 @@ header {
   }
   .image {
     display: flex;
-    height: 80px;
+    height: 90px;
     width: auto;
-    margin-left: 900px;
+    
+  }
+  @media screen and (min-width: 800px){
+    header {
+      justify-content: center;
+  }
+  .text {
+    display: none;
+}
   }
